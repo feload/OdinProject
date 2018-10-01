@@ -21,4 +21,4 @@ def caesar_cipher (str, shift)
 
 end
 
-caesar_cipher("What a string!", 5)
+puts caesar_cipher("What a string!", 5)
